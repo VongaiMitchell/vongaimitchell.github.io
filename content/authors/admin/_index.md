@@ -105,7 +105,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/vongai-mitchell-m-0b588898/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Vongai Mitchell Makuwaza is a masters student in machine intelligence at the African Institute for Mathematical Sciences (AIMS) in Senegal. Her research interests include reinforcement learning, high performance computing, machine learning and electrical engineering. She is currently a High Performance Computing (HPC) Systems Engineer.
 {style="text-align: justify;"}
