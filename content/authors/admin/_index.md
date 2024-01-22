@@ -22,26 +22,23 @@ role: HPC Systems Engineer
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Zimbabwe Centre for High Performance Computing (ZCHPC)
-    url: https://www.stanford.edu/
+    url: https://zchpc.ac.zw
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include reinforcement learning, machine learning and high performance engineering.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - High Performance Computing
+  - Reinforcement Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: Msc in Machine Intelligence (AMMI)
+      institution: African Masters in Mathematical Sciences (Senegal)
+      year: 2024
     - course: BSc in Electrical Engineering
       institution: University of Zimbabwe
       year: 2019
