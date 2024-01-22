@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Vongai Mitchell Makuwaza
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Vongai Mitchell
+last_name: Makuwaza
 
 # Status emoji
 status:
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: HPC Systems Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Zimbabwe Centre for High Performance Computing (ZCHPC)
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -42,9 +42,9 @@ education:
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Electrical Engineering
+      institution: University of Zimbabwe
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
